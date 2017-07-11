@@ -1,0 +1,6 @@
+{
+    "name": "john/composer-api-package",
+    "type": "hermes-api",
+    "extra":{},
+    "require": {}
+}
